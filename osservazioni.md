@@ -6,7 +6,7 @@ Componenti (nome, cognome e username GitHub di entrambi): Francesco Lorenzini lo
 
 URL del repository condiviso: https://github.com/riccardolella/esercitazione-0-template
 
-Chi ha usato la tastiera nello step 1 e nello step 2: tutti e due
+Chi ha usato la tastiera nello step 1 e nello step 2: tutti e due.
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
