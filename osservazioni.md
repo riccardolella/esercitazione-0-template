@@ -1,25 +1,25 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: C9
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Francesco Lorenzini lorenzini2277857-collab || Riccardo Lella riccardolella
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/riccardolella/esercitazione-0-template
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: tutti e due
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello	      
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: comando: ./hello || Sul terminale è stato stampato "Hello, computational physics!)
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: che per poter applicare le modifiche della sorgente è necessaria la compilazione prima dell'esecuzione
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: prima della modifica, ossia l'aggiunta di un comando fpritf, non viene stampato nulla 
 
 Esito dopo la modifica e spiegazione della correzione:
 
